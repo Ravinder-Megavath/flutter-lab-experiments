@@ -170,7 +170,7 @@ Install Flutter & Dart → Setup Guide
 Clone this repo:
 
 bash
-git clone https://github.com/YourUserName/flutter-lab-experiments.git
+git clone https://github.com/Ravinder-Megavath/flutter-lab-experiments.git
 cd flutter-lab-experiments
 Run any experiment:
 
